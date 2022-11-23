@@ -1,4 +1,6 @@
 About the Project :
+
+
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘁𝗵𝗲 𝘀𝘁𝗲𝗽𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲 :
 
 ➡️ Get daily batches from external sources and save them for future use.
