@@ -5,6 +5,7 @@ This code defines a DAG in [Airflow](https://airflow.apache.org/) that represent
 1. **Creating storage structures**: This task group consists of two sub-tasks:
    1. Creating an "experiment tracking" table in a PostgreSQL database using the `creating_experiment_tracking_table` operator.
    2. Creating a "batch data" table in the same database using the `creating_batch_data_table` operator.
+   
 2. **Fetching data**: This task uses the `fetching_data` operator, which is a Python operator that calls the `load_data` function to fetch data.
 3. **Preparing data**: This task group consists of two sub-tasks:
    1. Preprocessing the data using the `preprocessing` operator, which is a Python operator that calls the `preprocess_data` function.
