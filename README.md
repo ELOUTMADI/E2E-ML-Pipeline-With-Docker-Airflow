@@ -1,4 +1,4 @@
-# ml_pipeline
+# ML_PIPELINE
 
 This code defines a DAG in [Airflow](https://airflow.apache.org/) that represents an end-to-end machine learning pipeline. The pipeline includes the following tasks:
 
